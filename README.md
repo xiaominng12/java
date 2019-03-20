@@ -1,2 +1,1 @@
-# learngit
-Learning to use git 
+在java学习中的一些代码，包括数据结构与算法使用java实现
