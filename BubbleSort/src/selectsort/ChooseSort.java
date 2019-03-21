@@ -1,13 +1,3 @@
-/**
- * Copyright (C), 2015-2019
- * FileName: ChooseSort
- * Author:   丁士明
- * Date:     2019/3/9 19:17
- * Description:
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 
 /**
  * 〈一句话功能简述〉<br> 
