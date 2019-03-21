@@ -5,17 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6b939-14f0-45de-abb7-e06a74659487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/quicksort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/LineSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MyArrayTset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursive/Febonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursive/HanoiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursive/RecursiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursive/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/MatchBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/ReverseWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/ReverseWordTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/bubblesort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/insertsort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/insertsort/InsertSortTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/quicksort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/quicksort/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/selectsort/ChooseSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/selectsort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/selectsort/SelectSortTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/ReverseWordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/bubblesort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/insertsort/InsertSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/insertsort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/insertsort/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/mergesort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/mergesort/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/quicksort/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/selectsort/ChooseSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleSort/src/selectsort/SelectSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/quicksort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/quicksort/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,7 +48,7 @@
     <session id="1179491189">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.30" value="1" />
@@ -144,7 +163,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/recursive/HanoiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
+            <state relative-caret-position="473">
               <caret line="42" column="4" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="42" selection-end-column="4" />
               <folding>
                 <element signature="e#248#249#0" expanded="true" />
@@ -267,7 +286,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553155786274" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553171440630" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BubbleSort" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -383,12 +402,12 @@
       <updated>1552563383203</updated>
       <workItem from="1552563386266" duration="9763000" />
       <workItem from="1552715809994" duration="8983000" />
-      <workItem from="1553144874021" duration="10977000" />
+      <workItem from="1553144874021" duration="11363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29723000" />
+    <option name="totallyTimeSpent" value="30109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
@@ -402,7 +421,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32765958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -568,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursive/HanoiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
+        <state relative-caret-position="473">
           <caret line="42" column="4" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="42" selection-end-column="4" />
           <folding>
             <element signature="e#248#249#0" expanded="true" />
