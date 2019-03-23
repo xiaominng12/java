@@ -195,8 +195,34 @@ public class DoublyLinked {
   return current;
  }
 
+ /**
+  * 从前向后打印链表
+  */
  public void displayForward()
  {
   System.out.println("List()");
+  Link current = first;
+  while(current != null)
+  {
+   current.displayLink();
+   current = current.next;
+  }
+  System.out.println("");
  }
+
+ /**
+  * 从后向前打印链表
+  */
+ public void displayBackward()
+  {
+   System.out.println("List (last -> first):");
+   Link current = last;
+   while (current != null)
+   {
+    current.displayLink();
+    current = current.previous;
+   }
+   System.out.println("");
+  }
+
 }
